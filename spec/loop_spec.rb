@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 require_relative '../lib/loop.rb'
 require_relative '../lib/scraper.rb'
 
