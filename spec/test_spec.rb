@@ -1,5 +1,3 @@
-#!/usr/bin/ruby
-
 require_relative '../lib/scraper.rb'
 
 describe 'Scraper' do
