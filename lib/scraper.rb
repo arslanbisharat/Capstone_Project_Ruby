@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 require 'nokogiri'
 require 'open-uri'
 class Scraper
