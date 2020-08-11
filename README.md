@@ -1,6 +1,5 @@
-
-<p align="center" font="25px"><b>Ruby-Capstone-Project-Scraper</b></p>
-Ruby Capstone Project - Scraper (created by Arslan Bisharat)
+<h1 align="center">Ruby-Capstone-Project-Scraper</h1>
+<p align="center>Ruby Capstone Project - Scraper (created by Arslan Bisharat)</p>
 
 # Web Scraping
 ## Definition 
