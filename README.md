@@ -1,6 +1,6 @@
 
-<p align="center"># Ruby-Capstone-Project-Scraper
-Ruby Capstone Project - Scraper (created by Arslan Bisharat)</p>
+<p align="center"><b>Ruby-Capstone-Project-Scraper</b></p>
+Ruby Capstone Project - Scraper (created by Arslan Bisharat)
 
 # Web Scraping
 ## Definition 
