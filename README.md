@@ -80,6 +80,6 @@ Give a :star2: if you like this project! :blush:
 
 # 📝 License
 
-This project is [MIT](./LICENSE.md) licensed
+This project is [MIT](https://github.com/arslanbisharat/Capstone_Project_Ruby/blob/development/LICENSE) licensed
 
 Happy coding!
