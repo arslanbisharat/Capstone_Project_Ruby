@@ -1,5 +1,4 @@
 <h1 align="center">Ruby-Capstone-Project-Scraper</h1>
-<p align="cente"r>Ruby Capstone Project - Scraper (created by Arslan Bisharat)</p>
 
 # Web Scraping
 ## Definition 
@@ -16,13 +15,6 @@ In this project, I created a scraper which extracts job advertisements for junio
 
 # Built With
  - Ruby 2.7.1
- - Nokogiri 1.11.0.rc2
- - Open-uri
- - Colorize 0.8.1
- - Byebug 11.1.3
- - RSpec 3.9
- - Rubocop 0.81.0
- - VSCode editor 1.45.1
 
 # Getting Started
 To get started, you should first get this file in your local machine by downloading this project or typing.
@@ -31,9 +23,9 @@ git clone https://github.com/arslanbisharat/Capstone_Project_Ruby/
 `
 
 ## Prerequisites
-    Ruby installed on local machine
-    Text editor (preferably: VSCode, Atom, Sublime)
-    Git
+    - Ruby installed on local machine
+    - Text editor (preferably: VSCode, Atom, Sublime)
+    - Git
 
 ## Setup
    If you have installed `Ruby` on your machine:
@@ -46,8 +38,10 @@ git clone https://github.com/arslanbisharat/Capstone_Project_Ruby/
    5. Run command `rspec <file name>` to test the various methods in the classes.
    
 ## Running the scraper
-    When you run the project it will show you job advertisements on the selected page, then prompts the user to see more or stop. If you want to see more results you can press the 'y' button or 'Enter/Return' key. If you want to stop or found a job that matches you, then press the 'n' or 'q' button. The scraping process will be stopped.
-    In job advertisements you can found information about job title, hiring company and its location, estimated salary per year and the link about job descriptions. If you interest in any job you can go to the job url and apply for the job.
+    When you run the project it will show you job advertisements on the selected page, then prompts the user to see more or stop. If you want to see more results you can
+    press the 'y' button or 'Enter/Return' key. If you want to stop or found a job that matches you, then press the 'n' or 'q' button. The scraping process will be stopped.
+    In job advertisements you can found information about job title, hiring company and its location, estimated salary per year and the link about job descriptions. If you
+    interest in any job you can go to the job url and apply for the job.
 
 # Contributing
 
@@ -70,7 +64,7 @@ Feel free to check the [issues page](https://github.com/arslanbisharat/Capstone_
 
 - Github: [@githubhandle](https://github.com/arslanbisharat)
 - Twitter: [@twitterhandle](https://twitter.com/arslan_bisharat-2020bb156)
-- Linkedin: [linkedin](https://www.linkedin.com/in/muhammad-arslan-2020bb156)
+- Linkedin: [linkedin](https://www.linkedin.com/in/arslanbisharat)
 
 # Show your support!
 
@@ -86,6 +80,6 @@ Give a :star2: if you like this project! :blush:
 
 # 📝 License
 
-This project is [MIT](LICENSE.md) licensed
+This project is [MIT](./LICENSE.md) licensed
 
 Happy coding!
